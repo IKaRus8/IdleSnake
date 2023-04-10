@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701450656398",
+    "project_id": "snake-idle",
+    "storage_bucket": "snake-idle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701450656398:android:da5fc4c3effb14795b47df",
+        "android_client_info": {
+          "package_name": "com.mgamezmonster.idleSnake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701450656398-1nfj7flr48611runrd0sivahhq557sv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVR9wN9aLxaY5RRtExR4HdH_wo7db6fZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701450656398-1nfj7flr48611runrd0sivahhq557sv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
